@@ -1,2 +1,1 @@
-# case-sp
-Use Case - SP
+# Use Case - SP
